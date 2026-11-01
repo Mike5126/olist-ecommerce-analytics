@@ -221,15 +221,6 @@ The project documents data-quality checks, staging validation, data mart prepara
 - **Slicer and mapping checks:** Time filters, state mapping, and interactions must be checked independently in Power BI when changing model or report logic.
 - **Causal inference:** Association between month, state, category, seller and performance does not prove why the outcome occurred.
 
-## Portfolio Skills Demonstrated
-
-- Ingestion of multiple relational CSV datasets into PostgreSQL using Python
-- Layered data modeling (`raw` → `staging` → `mart`), fact/dimension tables and SQL joins
-- Data profiling, integrity checks, validation and KPI reconciliation
-- Advanced SQL: aggregations, `FILTER`, CTEs, window functions, cohort retention and revenue concentration
-- Power BI dashboard design, DAX measures and interactive filtering
-- Translating analyses into business insights, recommendations and limitations
-
 ## Dataset Attribution
 
 **Brazilian E-Commerce Public Dataset by Olist.** This project is an independent educational/portfolio analysis and is **not affiliated with or endorsed by Olist**. Review the original dataset's license/terms before redistributing the source files.
