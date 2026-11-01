@@ -224,7 +224,3 @@ The project documents data-quality checks, staging validation, data mart prepara
 ## Dataset Attribution
 
 **Brazilian E-Commerce Public Dataset by Olist.** This project is an independent educational/portfolio analysis and is **not affiliated with or endorsed by Olist**. Review the original dataset's license/terms before redistributing the source files.
-
----
-
-**Project status:** Four Power BI dashboard pages created; key unfiltered KPIs reconciled; business insights documented. The repository is intended as a reproducible learning and analytics portfolio, subject to local PostgreSQL configuration and dataset access.
